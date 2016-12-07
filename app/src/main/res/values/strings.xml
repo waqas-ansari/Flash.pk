@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flash.pk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sale">SALE</string>
+</resources>
